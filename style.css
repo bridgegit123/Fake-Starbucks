@@ -1,0 +1,59 @@
+* {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        outline: 0;
+        font-size: 100%;
+        vertical-align: baseline;
+        background: transparent;
+    }
+
+div{
+  height: 100%;
+  width: 50%;
+display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+.title{
+font-family: SODO Sans,system-ui,BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+font-size: 4.5rem;
+font-weight: 900;
+
+}
+
+.center {
+
+text-align:center;
+
+  
+
+}
+
+.center-image{display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+.whitespot{
+background-color: #f2f0eb;
+color:black;
+}
+
+.greenspot{
+background-color:#1e3932;
+color:white;
+}
+
+.icons{
+    display:inline-block;
+    width: 64px; 
+    height: 64px; 
+   }
+
+
+
